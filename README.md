@@ -1,5 +1,7 @@
 # Aurora: 3D Vulkan sandbox written in C
 
+## This engine stopped development in May 2022.
+
 ## Dependencies:
 - HandmadeMath
 - SPIRV-Reflect
